@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="itheima1128elec"
+  id="myeclipse.1417139570156"
+  context-root="/itheima1128elec"
+  j2ee-spec="5.0"
+  archive="itheima1128elec.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
