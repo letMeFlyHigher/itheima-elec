@@ -10,6 +10,9 @@ public class DateUtils {
 		String sDate = new SimpleDateFormat("/yyyy/MM/dd/").format(date);
 		return sDate;
 	}
+	public String vvv(){
+		return "vvvv";
+	}
 
 	
 }
